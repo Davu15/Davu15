@@ -1,47 +1,100 @@
-# ¡Hola! Soy David Rodríguez 👋
+<div align="center">
 
-### 🎓 Estudiante de Ingeniería de Software | Desarrollo web y backend
+# David Rodríguez
 
-Soy estudiante de **Ingeniería de Software en la Universidad Técnica de Ambato (Ecuador)**. Me interesa desarrollar aplicaciones útiles, diseñar bases de datos y mejorar la calidad del software mediante pruebas, Git y automatización.
+**Software Engineering Student · Backend Development · DevOps & Software Quality**
 
-### 🚀 Sobre mí
+Universidad Técnica de Ambato · Ecuador
 
-- 💻 Trabajo en proyectos académicos de desarrollo **web, backend y bases de datos**.
-- 🧩 Me interesa aprender arquitectura de software, integración continua y buenas prácticas.
-- 🛠️ Utilizo **Git, GitHub, Docker** y herramientas de desarrollo colaborativo.
-- 📚 Continúo aprendiendo y mejorando mis habilidades con proyectos prácticos.
+[GitHub Profile](https://github.com/Davu15) · [Repositories](https://github.com/Davu15?tab=repositories) · [Contributions](https://github.com/pulls?q=is%3Apr+author%3ADavu15)
 
-### 🛠️ Tecnologías con las que trabajo
-
-**Lenguajes:** Python · C++ · Java · JavaScript · SQL · C#
-
-**Frontend:** HTML · CSS · Vue 3 · React
-
-**Backend:** FastAPI · .NET
-
-**Bases de datos:** MySQL · PostgreSQL
-
-**Herramientas:** Git · GitHub · Docker · GitHub Actions
-
-### 📂 Proyectos destacados
-
-| Proyecto | Descripción |
-| --- | --- |
-| [Credit Simulation](https://github.com/Davu15/Credit-simulation) | Simulación de créditos con los métodos de amortización francés y alemán; React y .NET. |
-| [U-Ride](https://github.com/Davu15/U-Ride) | Propuesta de plataforma de transporte compartido para estudiantes. |
-| [Estructura de Datos](https://github.com/Davu15/Estructura-de-datos) | Ejercicios y prácticas de estructuras de datos. |
-| [Gestión de Cafetería](https://github.com/Davu15/Gestion-Cafeteria) | Gestión de cafetería mediante estructuras de datos en C++. |
-
-### 🌐 Mi página de presentación
-
-[Visitar mi GitHub Page](https://davu15.github.io/Credit-simulation/)
-
-> Esta página estará disponible cuando active GitHub Pages en el repositorio `Credit-simulation`.
-
-### 🤝 Contacto
-
-- GitHub: [@Davu15](https://github.com/Davu15)
+</div>
 
 ---
 
-*Aprendiendo, construyendo y mejorando un proyecto a la vez.*
+## Profile
+
+I am a Software Engineering student focused on building reliable applications and improving development workflows. My experience includes backend development, web applications, relational databases, containerization, continuous integration, and collaborative development through pull requests.
+
+I enjoy understanding how systems work as a whole: from application logic and databases to automated tests, deployment environments, and code review.
+
+## Selected projects
+
+### 01 / Interprovincial Bus Ticketing and Access Control
+
+**Team project · DevOps, CI/CD and Software Quality**
+
+A modular platform for managing interprovincial bus ticketing, reservations, and access control.
+
+- Worked on GitHub Actions workflows, Docker-based environments, and automated backend testing.
+- Contributed to infrastructure validation, staging preparation, and security/integration test evidence.
+- Collaborated through reviewed pull requests and structured version control practices.
+
+**Stack:** Python · FastAPI · Vue 3 · MySQL · Docker · GitHub Actions
+
+[Repository](https://github.com/MateoRonquillo/MyCdS-Proyecto-BusesInterprovinciales) · [My pull requests](https://github.com/MateoRonquillo/MyCdS-Proyecto-BusesInterprovinciales/pulls?q=is%3Apr+author%3ADavu15)
+
+### 02 / EduMonitorAI
+
+**Team project · Infrastructure and CI**
+
+An academic monitoring platform designed to integrate with Moodle and support the analysis of student performance.
+
+- Contributed to container infrastructure, Docker Compose, and repository environment configuration.
+- Worked on initial continuous-integration validation and technical organization.
+- Participated in collaborative pull-request review and integration activities.
+
+**Stack:** .NET · PostgreSQL · Docker · GitHub Actions · Moodle integration
+
+[Repository](https://github.com/MateoRonquillo/EduMonitorAI) · [Infrastructure pull request](https://github.com/MateoRonquillo/EduMonitorAI/pull/3)
+
+### 03 / Credit Simulation
+
+**Project contributor · Authentication and frontend**
+
+A loan simulation application covering French and German amortization methods.
+
+- Contributed to login and authentication functionality.
+- Worked on the simulator interface and amortization-table presentation.
+- Participated in development using pull requests and version control.
+
+**Stack:** React · .NET 10
+
+[Repository](https://github.com/Davu15/Credit-simulation) · [My pull requests](https://github.com/Davu15/Credit-simulation/pulls?q=is%3Apr+author%3ADavu15)
+
+### 04 / U-Ride
+
+**Academic project · Web application design**
+
+A student-focused carpooling platform concept centered on institutional access, journey management, reputation, and user safety.
+
+**Focus areas:** Web platforms · Application design · Student mobility
+
+[Repository](https://github.com/Davu15/U-Ride)
+
+## Technical background
+
+| Area | Technologies and practices |
+| :--- | :--- |
+| Programming | Python, C#, JavaScript, Java, C++, SQL |
+| Backend | FastAPI, .NET, REST APIs |
+| Frontend | React, Vue 3, HTML, CSS |
+| Data | PostgreSQL, MySQL, relational modeling |
+| DevOps | Docker, Docker Compose, GitHub Actions |
+| Collaboration & quality | Git, GitHub, pull requests, code review, automated testing |
+
+## Currently exploring
+
+- Reliable CI/CD pipelines and reproducible development environments.
+- Software architecture, API integration, and maintainable backend services.
+- Testing practices, automation, and software configuration management.
+
+---
+
+<div align="center">
+
+**Open to learning, collaboration, and meaningful software projects.**
+
+[Explore my work on GitHub](https://github.com/Davu15?tab=repositories)
+
+</div>
